@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+# footage never goes in git
+*.mp4
+*.mov
+*.mkv
+clips/
+recordings/
